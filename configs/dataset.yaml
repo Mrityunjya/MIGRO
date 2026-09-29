@@ -1,0 +1,9 @@
+dataset:
+  name: CoUpJava
+  source: "https://github.com/uw-swag/CoUpJava"
+  focus: coarse
+
+paths:
+  raw: data/raw/coupjava
+  processed: data/processed
+  metadata: data/metadata
