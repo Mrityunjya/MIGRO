@@ -20,3 +20,6 @@ data/metadata/*
 reports/migrations/
 
 reports/*.html
+
+data/github_repos/*
+data/metadata/*.json
