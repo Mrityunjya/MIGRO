@@ -16,3 +16,5 @@ data/metadata/*
 *.egg-info/
 
 *.egg-info/
+
+reports/migrations/
